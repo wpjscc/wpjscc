@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/wpjscc/langs)](https://githubtrends.io)
+
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/wpjscc/langs?time_range=one_year&include_private=True&loc_metric=changed" />
+</a>
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/wpjscc/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed" />
+</a>
